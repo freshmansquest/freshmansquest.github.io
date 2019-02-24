@@ -10,6 +10,9 @@
                         <a href="#freshmansFactSheet" class="nav-link">FACT SHEET</a>
                     </li>
                     <li class="nav-item">
+                        <a href="#freshmansDescription" class="nav-link">GAME DESCRIPTION</a>
+                    </li>
+                    <li class="nav-item">
                         <a href="#freshmansContact" class="nav-link">CONTACT US</a>
                     </li>
                 </ul>
