@@ -9,7 +9,7 @@
                     <ul>
                         <li>ESRB: E for Everyone</li>
                         <li>Release Date: <em>TBA</em></li>
-                        <li>Platforms: PC and Mac</li>
+                        <li>Platforms: <em>TBA</em></li>
                         <li>Price: <em>TBA</em></li>
                         <li>Social: <a href="https://twitter.com/freshmansQuest" target="_BLANK">Twitter</a></li>
                     </ul>

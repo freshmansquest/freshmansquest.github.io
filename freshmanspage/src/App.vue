@@ -34,7 +34,7 @@ export default {
 <style>
 
 .freshmans-body-repeat {
-  background: url("./assets/images/corpo1.png") repeat-y;
+  background: url("./assets/images/bg_corpo.png") repeat-y;
   background-size: cover;
   margin: 0;
   padding: 1rem 3rem;
@@ -73,5 +73,10 @@ section {
 .verticalAlignment {
     display: flex;
     align-items: center;
+}
+
+section div.container {
+  padding: 0;
+  margin: 0;
 }
 </style>

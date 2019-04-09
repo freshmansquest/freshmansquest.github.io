@@ -34,8 +34,8 @@
 
 <style scoped>
 .container {
-    padding-left: 30px;
-    padding-right: 30px;
+    /* padding-left: 30px;
+    padding-right: 30px; */
 }
 h2 {
     text-align: center;
